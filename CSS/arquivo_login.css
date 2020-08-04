@@ -1,0 +1,25 @@
+
+body{
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+   background-color: lightblue;
+    
+    
+    
+}
+
+
+
+
+
+input {
+    
+  border-radius: 2px;
+  width: 20%;
+  padding: 6px 10px;
+  box-sizing: border-box;
+  background-color: #3CBC8D;
+  color:darkblue;
+      
+}
